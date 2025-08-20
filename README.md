@@ -16,7 +16,7 @@
   </tr>  
 <tr>
 <td width="50%" valign="top" >
-<br><br>“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. 
+<br>“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. 
 <br><br>This parameter is not fixed: in future iterations, the branching factor will be treated as a variable informed by network conditions and adaptive optimization.  
 <br><br>In early simulations, IFPP behavior can be modeled within a TCP/IP framework for clarity of illustration, although the protocol itself is transport-agnostic.   
 <br><br>Conceptually, equivalent behaviors could be observed in a theoretical UDP system or a Bluetooth mesh of 1000 devices.   
@@ -24,8 +24,7 @@
 <br><br><br><br>
 </td>
 <td width="50%" valign="top">
-<br>
- “At the start, each device passes the message on to three others. 
+<br>“At the start, each device passes the message on to three others. 
   <br>This creates a branching, tree-like spread that grows very quickly, reaching most of the network in just a few steps. 
   <br><br>We chose the number three as a simple starting point because, in a group of about 1,000 devices, it lets the message spread widely without creating too many unnecessary duplicates. 
   <br><br>In later versions, this number will not be fixed — the system can adjust how many neighbors to pass the message to depending on how crowded or quiet the network is. 
