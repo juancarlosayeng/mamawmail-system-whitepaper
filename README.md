@@ -16,14 +16,28 @@
   </tr>  
 <tr>
 <td width="50%" valign="top" >
->
->“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. This parameter is not fixed: in future iterations, the branching factor will be treated as a variable informed by network conditions and adaptive optimization. In early simulations, IFPP behavior can be modeled within a TCP/IP framework for clarity of illustration, although the protocol itself is transport-agnostic. Conceptually, equivalent behaviors could be observed in a theoretical UDP system or a Bluetooth mesh of 1000 devices. These references are not implementations but testbeds for understanding propagation dynamics.”
->
+<br><br>
+“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. 
+  <br><br>
+  This parameter is not fixed: in future iterations, the branching factor will be treated as a variable informed by network conditions and adaptive optimization. 
+  
+  <br><br>In early simulations, IFPP behavior can be modeled within a TCP/IP framework for clarity of illustration, although the protocol itself is transport-agnostic. 
+  
+  <br><br>
+  Conceptually, equivalent behaviors could be observed in a theoretical UDP system or a Bluetooth mesh of 1000 devices. 
+  
+  <br><br>These references are not implementations but testbeds for understanding propagation dynamics.”
+
 </td>
 <td width="50%" valign="top">
->
-> “At the start, each device passes the message on to three others. This creates a branching, tree-like spread that grows very quickly, reaching most of the network in just a few steps. We chose the number three as a simple starting point because, in a group of about 1,000 devices, it lets the message spread widely without creating too many unnecessary duplicates. In later versions, this number will not be fixed — the system can adjust how many neighbors to pass the message to depending on how crowded or quiet the network is. For early testing, we can show this spreading pattern on common computer networks like the Internet (TCP/IP) or even imagine it working over wireless links such as Bluetooth. These examples are not finished systems, but just ways to picture how the spreading process works.”
->
+<br>
+ “At the start, each device passes the message on to three others. 
+  <br>This creates a branching, tree-like spread that grows very quickly, reaching most of the network in just a few steps. 
+  <br><br>We chose the number three as a simple starting point because, in a group of about 1,000 devices, it lets the message spread widely without creating too many unnecessary duplicates. 
+  <br><br>In later versions, this number will not be fixed — the system can adjust how many neighbors to pass the message to depending on how crowded or quiet the network is. 
+  <br><br><br>For early testing, we can show this spreading pattern on common computer networks like the Internet (TCP/IP) or even imagine it working over wireless links such as Bluetooth. 
+  <br><br>These examples are not finished systems, but just ways to picture how the spreading process works.”
+<br><br><br><br>
 </td>
 </tr>
 </table>
