@@ -16,18 +16,12 @@
   </tr>  
 <tr>
 <td width="50%" valign="top" >
-<br><br>
-“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. 
-  <br><br>
-  This parameter is not fixed: in future iterations, the branching factor will be treated as a variable informed by network conditions and adaptive optimization. 
-  
-  <br><br>In early simulations, IFPP behavior can be modeled within a TCP/IP framework for clarity of illustration, although the protocol itself is transport-agnostic. 
-  
-  <br><br>
-  Conceptually, equivalent behaviors could be observed in a theoretical UDP system or a Bluetooth mesh of 1000 devices. 
-  
-  <br><br>These references are not implementations but testbeds for understanding propagation dynamics.”
-
+<br><br>“In the initial propagation phase, nodes exhibit a fanout of \(k\), resulting in exponential reachability growth until the maximum fractal depth \(D\) is reached. For illustrative purposes, we select \(k=3\), a value chosen heuristically to approximate network saturation in a 1000-node environment without excessive redundancy. 
+<br><br>This parameter is not fixed: in future iterations, the branching factor will be treated as a variable informed by network conditions and adaptive optimization.  
+<br><br>In early simulations, IFPP behavior can be modeled within a TCP/IP framework for clarity of illustration, although the protocol itself is transport-agnostic.   
+<br><br>Conceptually, equivalent behaviors could be observed in a theoretical UDP system or a Bluetooth mesh of 1000 devices.   
+<br><br>These references are not implementations but testbeds for understanding propagation dynamics.”
+<br><br><br><br>
 </td>
 <td width="50%" valign="top">
 <br>
