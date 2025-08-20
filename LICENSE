@@ -1,4 +1,54 @@
 GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+---
+
+
+MAMAWMAIL Dual License
+======================
+
+MAMAWMAIL and the Intelligent Fractal Propagation Protocol (IFPP) are licensed under a dual-license model:
+
+1. Community Edition
+   Licensed under the GNU Affero General Public License, Version 3 (AGPL-3.0).
+   You may use, modify, and distribute this software provided that:
+   - Source code is made available for all derivative works.
+   - Network-accessible versions of the software must also publish source code.
+   - Attribution to the original author ("Juan Carlos Ayeng / Red Kamatis Virtual Studios") must be preserved.
+See full license text below.
+
+2. Enterprise Edition
+   A **commercial license** is available for organizations that:
+   - Wish to build proprietary modules without releasing source code.
+   - Require enterprise support, advanced modules, or service-level agreements.
+   Please contact: jcgayeng@protonmail.com for details.
+
+---
+
+## Attribution and Integrity
+
+- No part of this project may be **relicensed, renamed, forked, or represented as an independent protocol** without proper attribution.  
+- The name **MAMAWMAIL** and **IFPP (Intelligent Fractal Propagation Protocol)** are trademarks of the author.  
+
+---
+
+MAMAWMAIL Enterprise License Agreement
+Copyright (C) 2025 Juan Carlos Ayeng
+All rights reserved.
+
+
+
+
+Full License Text (AGPL-3.0)
+----------------------------
+The following applies to the Community Edition:
+
+
+                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -633,8 +683,8 @@ the "copyright" line and a pointer to where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,
@@ -676,4 +726,18 @@ MAMAWMAIL © 2023–2025 by J.C. Ayeng is released under the AGPLv3 license with
 > For commercial licensing inquiries, contact:  
 > **J.C. Ayeng – jcgayeng@protonmail.com**
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
