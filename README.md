@@ -37,7 +37,10 @@
 
 # UPDATE SUMMARY
 <br><br>
+**June 20, 2025**  
+
 ## Abstract  
+
 MAMAWMAIL is a decentralized, peer-to-peer messaging protocol that enables encrypted communication without relying on central servers or permanent infrastructure. Messages are distributed using a fractal propagation model, where packets branch through nearby devices and self-delete upon successful forwarding or delivery. The system integrates lightweight routing intelligence and prepares for optional AI-based learning, allowing it to optimize delivery paths over time.
 
 MAMAWMAIL is designed to be censorship-resistant, infrastructure-free, and resilient — ideal for use in disaster zones, offline environments, and sensitive field operations.
