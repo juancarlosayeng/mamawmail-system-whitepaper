@@ -1,3 +1,4 @@
+UPDATED: August 24 2025
 Part of the Mamawmail Research Initiative – system-level design and theory.
 -----------------------------------------------------
 ## Mamawmail Research Initiative – License Overview
@@ -19,6 +20,7 @@ while the implementation repository translates those ideas into a working system
 
 --------------------------------------------------
 
+INITIAL README
 [June 20 2025 Version]
 # MAMAWMAIL  
 **An AI-Assisted Decentralized Messaging Protocol Using Fractal Propagation**
