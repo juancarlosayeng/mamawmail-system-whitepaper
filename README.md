@@ -1,4 +1,5 @@
 UPDATED: August 24 2025
+
 Part of the Mamawmail Research Initiative – system-level design and theory.
 -----------------------------------------------------
 ## Mamawmail Research Initiative – License Overview
