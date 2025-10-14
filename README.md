@@ -1,3 +1,29 @@
+UPDATED: October 14 2025
+
+🧩 New Annex Added 
+
+Annex A — IFPP Message Packet Specification and Stateless Transport Behavior
+Defines the three-part IFPP message structure (Ephemeral Header, AI Metadata, Eternal Message Core) and outlines stateless, no-socket transport modes via UDP, Bluetooth, Wi-Fi, and TCP/IP bridge.
+
+📘 Preview:
+“Each IFPP message is composed of three interdependent yet independently storable components:
+— Ephemeral Header – transient bootstrap and authentication data.
+— AI Metadata – dynamic, self-evolving contextual information for learning and traceability.
+— Eternal Message Core – immutable encrypted payload representing the true message.”
+
+
+<details>
+<summary>🧩 Annex A — IFPP Message Packet Specification and Stateless Transport Behavior</summary>
+
+> Defines the three-part IFPP message structure (Ephemeral Header, AI Metadata, Eternal Message Core).  
+>  
+> 🔗 [Read Full Annex A (Markdown)](docs/Annex_A-IFPP_Message_Packet_Specification.md)  
+> 📄 [Download PDF Version](docs/Annex_A-IFPP_Message_Packet_Specification.pdf)
+
+</details>
+
+<hr>
+
 UPDATED: October 1 2025
 
 # Submitted New IFPP Whitepaper to NLNET. 
