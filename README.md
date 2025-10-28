@@ -1,3 +1,24 @@
+UPDATED: October 28 2025
+
+### IFPP + MAMAWMAIL WHITEPAPER CURRENT STRUCTURE 
+
+ 
+1. [x] [Intelligent Fractal Propagation Protocol Whitepaper](https://github.com/juancarlosayeng/mamawmail-system-whitepaper/blob/main/docs/The%20Intelligent%20Fractal%20Propagation%20Protocol%20(IFPP)%20A%20Protocol%20Originating%20from%20the%20MAMAWMAIL%20Project%20Whitepaper%20%E2%80%94%20September%2022%202025%20-%20Engr%20Juan%20Carlos%20G%20Ayeng%20-%20Bacolod%20City%20-%20Philippines.pdf) 
+   1. [x] Annex A [IFPP MESSAGE PACKET SPECIFICATION AND STATELESS TRANSPORT BEHAVIOR](https://github.com/juancarlosayeng/mamawmail-system-whitepaper/blob/main/docs/Annex_A-IFPP_Message_Packet_Specification_and_Stateless_Transport_Behavior_Beta_102025.pdf)
+   2. [ ] Annex B - ONGOING - <b>IFPP PHYSICAL TRANSFER AND CARRIER LAYER EXPRESSIONS</b>  
+   3. [ ] Annex C - ONGOING - <b>Archangel Gabriel [AI]: Swarm Supra-Entity and Integrity Sentinel</b> 
+  
+      
+2. [ ] Mamawmail Whitepaper - ONOING
+
+   
+ 
+
+
+
+
+<hr>
+
 UPDATED: October 14 2025
 
 🧩 New Annex Added 
