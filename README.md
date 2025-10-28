@@ -9,8 +9,7 @@ UPDATED: October 28 2025
    3. [ ] Annex C - ONGOING - <b>Archangel Gabriel [AI]: Swarm Supra-Entity and Integrity Sentinel</b> 
   
       
-2. [ ] Mamawmail Whitepaper - ONOING
-
+2. [ ] Mamawmail Whitepaper - [ONOING/Unfinished](https://github.com/juancarlosayeng/mamawmail-intelligent-fractal-propagation-protocol-whitepaper/blob/main/docs/MAMAWMAIL%20-%20%20A%20Decentralized%20Communication%20System%20Updated%20Whitepaper%20%E2%80%94%20September%2027%202025%20(Original%20June%2020%202025)%20-%20Engr%20Juan%20Carlos%20G%20Ayeng%20-%20Bacolod%20City%20-%20Philippines.docx](https://github.com/juancarlosayeng/mamawmail-system-whitepaper/blob/main/docs/MAMAWMAIL%20-%20%20A%20Decentralized%20Communication%20System%20Updated%20Whitepaper%20%E2%80%94%20September%2027%202025%20(Original%20June%2020%202025)%20-%20Engr%20Juan%20Carlos%20G%20Ayeng%20-%20Bacolod%20City%20-%20Philippines.docx))
    
  
 
