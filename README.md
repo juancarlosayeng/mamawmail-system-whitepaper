@@ -1,3 +1,12 @@
+-------
+| REPO LINKS |
+|----- |
+| [MAMAWMAIL RESEARCH INITIATIVE](https://github.com/Mamawmail-Research-Initiative) : Github Organization  |
+| [Intelligent Fractal Propagation Protocol](https://github.com/juancarlosayeng/mamawmail-intelligent-fractal-propagation-protocol-whitepaper) : IFPP Whitepaper  |
+| [Mamawmail SYSTEM Whitepaper](https://github.com/juancarlosayeng/mamawmail-system-whitepaper) : IFPP Implementation/Application Whitepaper  |
+| [Mamawmail](https://github.com/juancarlosayeng/mamawmail) : IFPP Implementation  |
+-------
+
 UPDATED: October 28 2025
 
 ### IFPP + MAMAWMAIL WHITEPAPER CURRENT STRUCTURE 
